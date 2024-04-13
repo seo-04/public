@@ -1,0 +1,22 @@
+.kakao {
+  background-color: #f7e111;
+  color: black;
+  text-align: center;
+  width: 400px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.facebook {
+  background-color: #0866ff;
+  color: white;
+  text-align: center;
+  width: 400px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}

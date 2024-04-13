@@ -1,0 +1,74 @@
+.apple {
+  /* 자식의 배치도 css*/
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+
+  background-color: white;
+  color: black;
+  text-align: center;
+  width: 400px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /*두께 스타일 색상 */
+  border: 4px solid #efefef;
+  border-radius: 20px;
+}
+
+.icon {
+  /* 자식의 배치도*/
+  display: flex;
+  /* 가운데로 맞춰줘*/
+  align-items: center;
+  font-size: 30px;
+}
+
+.apple2 {
+  background-color: black;
+  border-radius: 50%;
+  color: white;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+}
+
+.email2 {
+  background-color: rgb(69, 210, 235);
+
+  color: white;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+}
+.naver {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.round_button {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.appleIcon {
+  background-color: black;
+  color: white;
+}
+.email {
+  background-color: skyblue;
+  color: white;
+}
